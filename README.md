@@ -1,3 +1,10 @@
+# Version Control Test Repo
+
+The objective is to use this repo to try out all the weird and wonderful things we can do with a shared repository. I ENCOURAGE you to submit pull requests with weird updates. Feel free to change the README. 
+
+When creating a pull request, select another member of the repo to review your change. If they approve it, then it can be merged!
+
+
 <h1 align="center">Hi, This is a sample `README.md` file</h1>
 <h3 align="center">I am a third year undergraduate student at the University of Canberra studying Software Engineering with a Major in Robotics and AI.</h3>
 <h4 align="center">Always have an idea ready to go wrong</h4>
